@@ -1,4 +1,4 @@
-// Luke jacobs
+// Luke Jacobs
 // Chess GUI
 // Final Project
 
